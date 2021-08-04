@@ -1,7 +1,7 @@
 # MagicBytes
 Fixes corrupted Magic Bytes for PNG, JPG and JPEG
 
-#Usage
+Usage:
 
 python3 magicbytes.py -i corrupted.png -m png
 
