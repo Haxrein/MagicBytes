@@ -6,4 +6,4 @@ Usage:
 python3 magicbytes.py -i corrupted.png -m png
 
 -i input file
--m magic bytes type of file
+-m magic bytes type
